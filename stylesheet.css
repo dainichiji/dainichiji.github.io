@@ -2,9 +2,6 @@
   box-sizing: border-box;
 } 
 
-header h1 {
-  color: white;
-}
 body {
   margin: 0;
   font-family: "Hiragino Kaku Gothic ProN";
@@ -94,6 +91,7 @@ header {
 
 .header-left {
   float: left;
+  color: white;
 }
 
 .header-right {
