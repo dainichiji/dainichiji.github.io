@@ -2,7 +2,7 @@
   box-sizing: border-box;
 } 
 
-.title {
+header h1 {
   color: white;
 }
 body {
