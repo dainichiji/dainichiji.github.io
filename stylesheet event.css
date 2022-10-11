@@ -17,24 +17,44 @@ a {
   margin: 0 auto;
 }
 
+* {
+  box-sizing: border-box;
+} 
+
+body {
+  margin: 0;
+  font-family: "Hiragino Kaku Gothic ProN";
+}
+
+a {
+  text-decoration: none;
+}
+
+.container {
+  width: 100%;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+
 .top-wrapper {
   padding: 180px 0 100px 0;
-  background-image: url(1664943436617.jpg);
-  background-size: cover;
+  background-color: olive;
   height: 1000px;
   color: white;
   text-align: center;
 }
 
+
 .top-wrapper h1 {
   font-size: 30px;
-  color:white;
+  letter-spacing: 5px;
+  color:blanchedalmond;
 }
 
 .top-wrapper p {
-  font-size: 16px;
+  font-size: 22px;
   margin-bottom: 20px;
-  color:white;
+  color:blanchedalmond;
 }
 
 .btn-wrapper {
