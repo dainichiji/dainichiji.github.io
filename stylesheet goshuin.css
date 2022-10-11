@@ -33,7 +33,7 @@ a {
 
 .top-wrapper p {
   font-size: 16px;
-  margin-bottom: 40px;
+  margin-bottom: 20px;
   color:black;
 }
 
@@ -45,35 +45,7 @@ a {
   margin-bottom: 20px;
 }
 
-.signup {
-  background-color: #239b76;
-}
 
-.facebook {
-  background-color: #3b5998;
-  margin-right: 10px;
-}
-
-.twitter {
-  background-color: #55acee;
-}
-
-.btn {
-  padding: 8px 24px;
-  color: white;
-  display: inline-block;
-  opacity: 0.8;
-  border-radius: 4px;
-  text-align: center;
-}
-
-.btn:hover {
-  opacity: 1;
-}
-
-.fa {
-  margin-right: 5px;
-}
 
 header {
   height: 80px;
@@ -243,9 +215,7 @@ footer {
     width: 100%;
   }
 
-  .twitter {
-    margin-top: 10px;
-  }
+  
 
   .top-wrapper {
     text-align: left;
@@ -271,8 +241,4 @@ footer {
     width: 100%;
   }
 Footer
-
-
-
-
 
