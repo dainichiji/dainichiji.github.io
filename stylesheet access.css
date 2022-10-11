@@ -21,6 +21,7 @@ a {
   padding: 180px 0 100px 0;
   background-image: url(1664943436617.jpg);
   background-size: cover;
+  opacity:0.5;
   color: white;
   text-align: center;
 }
