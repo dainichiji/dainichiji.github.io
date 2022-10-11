@@ -21,7 +21,7 @@
     padding: 180px 0 100px 0;
     background-image: url(1664943436617.jpg);
     background-size: cover;
-    height: 1000px;px;
+    height: 1000px;
     color: white;
     text-align: center;
   }
@@ -37,15 +37,7 @@
     font-size: 16px;
     margin-bottom: 20px;
     color:blanchedalmond;
-  
-  .btn-wrapper {
-    text-align: center;
   }
-  
-  .btn-wrapper p {
-    margin-bottom: 20px;
-  }
-  
   
   
   header {
@@ -241,6 +233,4 @@
     .message-wrapper .btn {
       width: 100%;
     }
-  Footer
-  
-  
+    
