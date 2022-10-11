@@ -18,7 +18,7 @@
   }
   
   .top-wrapper {
-    padding: 180px 0 100px 0;
+    padding: 120px 0 100px 0;
     background-image: url(1664943436617.jpg);
     background-size: cover;
     height: 1000px;
@@ -92,9 +92,14 @@
     padding-bottom: 50px;
     color: #5f5d60;
   }
+
+  .heading img {
+    float: left;
+    margin-right: 20px;
+  }
   
-  .heading h2 {
-    font-weight: normal;
+  .heading p {
+    text-align: left;
   }
   
   .lesson {
@@ -208,8 +213,6 @@
       width: 100%;
     }
   
-    
-  
     .top-wrapper {
       text-align: left;
     }
@@ -233,4 +236,3 @@
     .message-wrapper .btn {
       width: 100%;
     }
-    
