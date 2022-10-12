@@ -4,7 +4,7 @@
   
   body {
     margin: 0;
-    font-family: "Hiragino Kaku Gothic ProN";
+    font-family: HGP行書体;
   }
   
   a {
@@ -28,14 +28,8 @@
 
   
   .top-wrapper h1 {
-    font-size: 30px;
+    font-size: 50px;
     letter-spacing: 5px;
-    color:blanchedalmond;
-  }
-  
-  .top-wrapper p {
-    font-size: 20px;
-    margin-bottom: 20px;
     color:blanchedalmond;
   }
   
@@ -53,10 +47,11 @@
     float: left;
   }
   
-  .header-left h1 {
+  .header-left a {
     color: white;
-    font-size: 30px;
-    padding:0 25px;
+    line-height: 80px;
+    display: block;
+    font-size: 50px;
   
   }
   
@@ -66,6 +61,7 @@
   }
   
   .header-right a {
+    font-size: 30px;
     line-height: 80px;
     padding: 0 25px;
     color: white;
@@ -100,6 +96,7 @@
   
   .heading p {
     text-align: left;
+    font-size: 30px;
   }
   
   .lesson {
@@ -155,7 +152,7 @@
   
   footer p {
     color: #b3aeb5;
-    font-size: 20px;
+    font-size: 25px;
   }
   
   footer {
@@ -186,7 +183,7 @@
     }
   
     footer {
-      text-align: center;
+      text-align: left;
     }
   }
   
