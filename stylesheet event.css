@@ -4,26 +4,7 @@
 
 body {
   margin: 0;
-  font-family: "Hiragino Kaku Gothic ProN";
-}
-
-a {
-  text-decoration: none;
-}
-
-.container {
-  width: 100%;
-  padding: 0 15px;
-  margin: 0 auto;
-}
-
-* {
-  box-sizing: border-box;
-} 
-
-body {
-  margin: 0;
-  font-family: "Hiragino Kaku Gothic ProN";
+  font-family: HGP行書体;
 }
 
 a {
@@ -46,13 +27,13 @@ a {
 
 
 .top-wrapper h1 {
-  font-size: 30px;
+  font-size: 50px;
   letter-spacing: 5px;
   color:blanchedalmond;
 }
 
 .top-wrapper p {
-  font-size: 22px;
+  font-size: 30px;
   margin-bottom: 20px;
   color:blanchedalmond;
 }
@@ -80,11 +61,11 @@ header {
   float: left;
 }
 
-.header-left h1 {
+.header-left a {
   color: white;
-  font-size: 30px;
-  padding:0 25px;
-
+  line-height: 80px;
+  display: block;
+  font-size: 50px;
 }
 
 .header-right {
@@ -93,6 +74,7 @@ header {
 }
 
 .header-right a {
+  font-size: 30px;
   line-height: 80px;
   padding: 0 25px;
   color: white;
@@ -260,5 +242,3 @@ footer {
   .message-wrapper .btn {
     width: 100%;
   }
-Footer
-
