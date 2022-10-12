@@ -34,13 +34,13 @@ a {
 
 .top-wrapper h2 {
   font-size: 40px;
-  color: bisque;
+  color: rgb(85, 55, 9);
 }
 
 .top-wrapper p {
   font-size: 30px;
   margin-bottom: 20px;
-  color:blanchedalmond;
+  color:rgb(12, 6, 1);
 }
 
 .top-wrapper a {
